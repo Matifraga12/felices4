@@ -1,0 +1,27 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        background-color: #f7f7f7;
+        margin: 0;
+        padding: 20px;
+    }
+
+    div {
+        background-color: #fff;
+        border: 1px solid #bb8686;
+        padding: 20px;
+        max-width: 600px;
+        margin: 0 auto;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+
+    h1 {
+        color: #e83e3e;
+        text-align: center;
+    }
+
+    p {
+        color: #333;
+        line-height: 1.5;
+        margin-bottom: 10px;
+    }
